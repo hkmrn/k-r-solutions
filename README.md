@@ -3,7 +3,7 @@
 This repository contains my solutions to various exercises from **The C Programming Language** by **Kernighan and Ritchie (K&R)**.
 
 ## Structure
-- Solutions are organized by chapter and exercise number.
+- Solutions are organised by chapter and exercise number.
 - Code is written in C and follows Allman style.
 
 ## Compilation
